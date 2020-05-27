@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <excludeFromCompile>
-      <file url="file://$PROJECT_DIR$/promo-service/promo-provider/src/main/java/com/mall/promo/dal/persistence/PromoItemMapper.java" />
-    </excludeFromCompile>
     <annotationProcessing>
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -16,11 +13,16 @@
         <module name="commons-mq" />
         <module name="commons-tool" />
         <module name="gateway" />
+        <module name="maven-archiver (1)" />
+        <module name="maven-archiver (2)" />
+        <module name="maven-archiver (3)" />
+        <module name="maven-archiver (5)" />
+        <module name="maven-archiver (6)" />
         <module name="order-api" />
         <module name="order-provider" />
         <module name="pay-api" />
         <module name="pay-provider" />
-        <module name="pay-sdk-ali" />
+        <module name="pay-sdk" />
         <module name="promo-api" />
         <module name="promo-provider" />
         <module name="shopping-api" />
@@ -31,15 +33,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="pay-service" target="1.8" />
-      <module name="promo-provider" target="1.8" />
-      <module name="promo-services" target="1.8" />
-      <module name="promoservice" target="1.8" />
+      <module name="maven-archiver (4)" target="1.8" />
+      <module name="pay-sdk-ali" target="1.8" />
+      <module name="pay-services" target="1.8" />
     </bytecodeTargetLevel>
-  </component>
-  <component name="JavacSettings">
-    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="promo-provider" options="" />
-    </option>
   </component>
 </project>

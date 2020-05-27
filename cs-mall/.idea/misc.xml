@@ -6,22 +6,20 @@
       <list>
         <option value="$PROJECT_DIR$/gateway/pom.xml" />
         <option value="$PROJECT_DIR$/mall-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/pay-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pay-service/pay-sdk-ali/target/maven-archiver/pom.properties" />
         <option value="$PROJECT_DIR$/mall-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-commons/commons-mq/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/mall-commons/commons-core/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/mall-commons/commons-tool/target/maven-archiver/pom.properties" />
         <option value="$PROJECT_DIR$/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/user-service/user-api/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/promo-service/pom.xml" />
         <option value="$PROJECT_DIR$/order-services/pom.xml" />
         <option value="$PROJECT_DIR$/comment-service/pom.xml" />
         <option value="$PROJECT_DIR$/shopping-service/pom.xml" />
-        <option value="$PROJECT_DIR$/promo-service/pom.xml" />
-        <option value="$PROJECT_DIR$/promo-services/pom.xml" />
-        <option value="$PROJECT_DIR$/promo-service/promo-provider/pom.xml" />
-        <option value="$PROJECT_DIR$/promo-service/promo-api/pom.xml" />
-        <option value="$PROJECT_DIR$/pay-service/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-service/shopping-api/target/maven-archiver/pom.properties" />
       </list>
-    </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/promo-service/promo-provider/pom.xml" />
-      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">

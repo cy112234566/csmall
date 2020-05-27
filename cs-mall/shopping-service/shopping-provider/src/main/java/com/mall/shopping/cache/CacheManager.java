@@ -7,11 +7,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.concurrent.TimeUnit;
 
-/**
- * @Author: Li Qing
- * @Create: 2020/5/18 11:37
- * @Version: 1.0
- */
+
 @Service
 public class CacheManager {
 

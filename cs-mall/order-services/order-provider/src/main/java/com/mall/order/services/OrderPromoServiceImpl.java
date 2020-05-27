@@ -57,7 +57,7 @@ public class OrderPromoServiceImpl implements OrderPromoService {
         createOrderContext.setOrderTotal(request.getPrice());
 
         cartProductDto.setProductId(request.getProductId());
-        cartProductDto.setProductNum(1l);
+        cartProductDto.setProductNum(1L);
         cartProductDto.setSalePrice(request.getPrice());
         cartProductDto.setProductName(productDetailDto.getProductName());
         cartProductDto.setProductImg(productDetailDto.getProductImageBig());

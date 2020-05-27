@@ -11,6 +11,7 @@
     <modules>
 
         <module>promo-api</module>
+        <module>promo-provider</module>
     </modules>
 
     <name>promo-service</name>
